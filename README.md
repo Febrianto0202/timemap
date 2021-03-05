@@ -1,4 +1,4 @@
-# Setup Web Server use Bitnami Image for React Js Application
+# Setup Web Server use Bitnami Image for Timemap Application
 
 ## OS VERSION
 
